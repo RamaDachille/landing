@@ -1,0 +1,13 @@
+footer {
+  background-color: rgb(48, 48, 48);
+  text-align: center;
+  height: 200px;
+}
+i {
+  font-size: 30px;
+  margin: 30px;
+  color: rgb(78, 204, 78);
+}
+footer p {
+  color: grey;
+}

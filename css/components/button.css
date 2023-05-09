@@ -1,0 +1,12 @@
+button {
+  color: white;
+  background-color: rgb(93, 214, 113);
+  width: 155px;
+  border-radius: 100px;
+  padding: 17px;
+  border: none;
+  font-size: 18px;
+}
+button > a {
+  color: white;
+}
